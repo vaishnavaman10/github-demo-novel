@@ -1,5 +1,5 @@
 ======
-outline
+outline Hola Adios
 ======
 
 Chapter 1
